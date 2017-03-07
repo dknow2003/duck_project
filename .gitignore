@@ -1,0 +1,26 @@
+# Finder
+._.DS_Store
+.DS_Store
+
+# PHPStorm
+.idea
+
+# env
+.env
+
+# Composer vendor
+/vendor
+
+# Node Module
+/node_modules
+
+# IDE helper
+_ide_helper.php
+.phpstorm.meta.php
+
+/public/storage
+
+npm-debug.log
+
+# laravel excel export file
+/storage/exports
